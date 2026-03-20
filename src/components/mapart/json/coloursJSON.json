@@ -2006,7 +2006,7 @@
                 },
                 "supportBlockMandatory": false,
                 "flammable": true,
-                "presetIndex": 0
+                "presetIndex": 6
             }
         },
         "mapdatId": 14,
@@ -6925,7 +6925,7 @@
                 },
                 "supportBlockMandatory": false,
                 "flammable": false,
-                "presetIndex": 0
+                "presetIndex": 1
             }
         },
         "mapdatId": 37,
