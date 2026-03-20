@@ -1995,6 +1995,18 @@
                 "supportBlockMandatory": false,
                 "flammable": false,
                 "presetIndex": 4
+            },
+            "6": {
+                "displayName": "Pale Oak Pressure Plate",
+                "validVersions": {
+                    "1.20": {
+                        "NBTName": "pale_oak_pressure_plate",
+                        "NBTArgs": {}
+                    }
+                },
+                "supportBlockMandatory": false,
+                "flammable": true,
+                "presetIndex": 0
             }
         },
         "mapdatId": 14,
@@ -6896,6 +6908,20 @@
                     "1.18.2": "&1.13.2",
                     "1.19": "&1.13.2",
                     "1.20": "&1.13.2"
+                },
+                "supportBlockMandatory": false,
+                "flammable": false,
+                "presetIndex": 0
+            },
+            "1": {
+                "displayName": "Resin Clump",
+                "validVersions": {
+                    "1.20": {
+                        "NBTName": "resin_clump",
+                        "NBTArgs": {
+                            "down": "true"
+                        }
+                    }
                 },
                 "supportBlockMandatory": false,
                 "flammable": false,
